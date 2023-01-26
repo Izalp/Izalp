@@ -1,4 +1,4 @@
-<img align ="right" alt="LOZ01" height="300" src="https://user-images.githubusercontent.com/102091381/213921754-a1f202a2-f08d-4935-9341-b6a0a40a62ae.gif">
+<img align ="right" alt="LOZ01" height="320" src="https://user-images.githubusercontent.com/102091381/213921754-a1f202a2-f08d-4935-9341-b6a0a40a62ae.gif">
  
 <h1 align="left">🚀 WELCOME TO MY GITHUB! 🚀 
  
