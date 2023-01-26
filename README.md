@@ -1,4 +1,4 @@
-<img align ="right" alt="LOZ01" width="500em" height="300"   src="https://user-images.githubusercontent.com/102091381/213921754-a1f202a2-f08d-4935-9341-b6a0a40a62ae.gif">
+<img align ="right" alt="LOZ01" width="500em" src="https://user-images.githubusercontent.com/102091381/213921754-a1f202a2-f08d-4935-9341-b6a0a40a62ae.gif">
  
 <h1 align="left">🚀 WELCOME TO MY GITHUB! 🚀 
  
@@ -35,8 +35,8 @@
 
 ## ⚙️ &nbsp;GitHub Analytics:
 <p align="center">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=Izalp&show_icons=true&theme=dracula" alt="Izalp's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izalp&layout=compact&theme=dracula" alt="Izalp's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=Izalp&show_icons=true&theme=dracula" alt="Izalp's stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izalp&layout=compact&theme=dracula" alt="Izalp's most languages"/>
 </p>
 
 <br>
