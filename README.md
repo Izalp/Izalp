@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  Hello world!🌎 My name is Iza, and I'm a Software Engineering student at the Instituto Nacional de Telcomunicações - INATEL 🏛. <br> 
+  Hello world!🌎 My name is Iza, and I'm a Software Engineering student at the Instituto Nacional de Telecomunicações - INATEL 🏛. <br> 
   I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. <br> 
   I love to explore new technologies and leverage them to solve real-life problems✨. 
 </p>
