@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  Hello world!🌎 My name is Iza, and I'm a Software Engineering student at the Instituto Nacional de Telecomunicações - INATEL 🏛. <br> 
+  Hello world!🌎 My name is Iza, and I'm a Software Engineering student at the Instituto Nacional de Telecomunicações -INATEL 🏛. <br> 
   I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. <br> 
   I love to explore new technologies and leverage them to solve real-life problems✨. 
 </p>
@@ -24,9 +24,9 @@
 <a href="https://twitter.com/izallopes_" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter"/>
  </a>
-<a href="iza.lopes@ges.inatel.br" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="outlook"/>
-</a>
+<a href="https://inatel.br/home/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Inatel-0078D4?style=for-the-badge&logo=iantel&logoColor=white" alt="inatel"/>
+</a>    
 </p>
 
 <br>
@@ -36,7 +36,7 @@
 <br>
 
 <ul>
-  <li> Java and C++ Projects 👩‍💻; </li>
+  <li> My Projects 👩‍💻; </li>
   <li> My college activities 📑️; </li>
   <li> Some random codes 🖥️. </li>
 </ul>
