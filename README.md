@@ -48,7 +48,7 @@ Software Engineering Student
   <img align="left" alt="Top Languages" height="175" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izalp&hide_progress=true&theme=midnight-purple" alt="Top Languages" />
 </p>
 
-</br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br>
 
 <h3>Featured Content 🌟</h3>
 
