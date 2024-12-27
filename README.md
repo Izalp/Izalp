@@ -48,33 +48,33 @@ Software Engineering Student
   <img align="left" alt="Top Languages" height="175" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izalp&hide_progress=true&theme=midnight-purple" alt="Top Languages" />
 </p>
 
-</br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br>
 
 <h3>Featured Content 🌟</h3>
 
 <p>
   <a href="https://github.com/Izalp/Laboratorio_C204">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_C204&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_C204" 
-      style="width: 353px;"/>
+      style="width: 400px;"/>
   </a>
   <a href="https://github.com/Izalp/Laboratorio_C208">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_C208&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_C208" 
-      style="width: 353px;"/>
+      style="width: 400px;"/>
   </a>
   <a href="https://github.com/Izalp/Laboratorio_S203">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_S203&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_S203" 
-      style="width: 353px;"/>
+      style="width: 400px;"/>
   </a>
   <a href="https://github.com/Izalp/Laboratorio_S202">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_S202&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_S202" 
-      style="width: 353px;"/>
+      style="width: 400px;"/>
   </a>
   <a href="https://github.com/Izalp/Laboratorio_C206">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_C206&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_C206" 
-      style="width: 353px;"/>
+      style="width: 400px;"/>
   </a>
   <a href="https://github.com/Izalp/Laboratorio_C209">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_C209&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_C209" 
-      style="width: 353px;"/>
+      style="width: 400px;"/>
   </a>
 </p>
