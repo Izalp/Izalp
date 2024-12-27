@@ -1,62 +1,80 @@
-<div align="center">
-  <img align="center" alt="picture" width="100em" src="https://github.com/Izalp/Izalp/assets/102091381/8293cc5b-1011-4589-af42-2f9efd32a473">
-  <h2>🌟 Explore the Universe of My Knowledge! 🌟</h2>
-  <p>"In a world where the impossible is just a matter of perspective, we are shaping the future with every line of code."</p>
-  <div align="left">
-    <h2>About Me 🌱</h2>
-      <p>I am Iza Lopes, currently studying Software Engineering at INATEL. I am always on a journey to explore and understand everything in the vast world of technology, innovation, and programming.</p>
-      <ul> 
-          <li> 🎯 My goal is to apply my creativity and unique perspective to my projects and share the knowledge I have acquired. </li>
-          <li> 🌐 I am constantly striving to learn new skills and share knowledge with the community.</li>
-          <li> 🔭 I am learning concepts and applications of algorithms and data structures, software architectures, databases, programming paradigms, OOP, computer graphics and multimedia, microcontroller control, among other competencies in the field of software engineering.</li>
-      </ul>
-    <h2 align="left">Skills 🔥</h2>
-    <p align="center">
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,javascript,python,css,html,nodejs,mysql,mongo,git,figma,androidstudio,angular" />
-        </a>
-    </p>
-    <h2 align="left">Statistics GitHub ⚡ </h2>
-      <div align="center">
-          <a href="https://github.com/Izalp">
-              <img leight="100em" src="https://github-readme-stats.vercel.app/api?username=Izalp&show_icons=true&theme=radical" alt="GitHub Statistics" />
-              <img width="355em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izalp&layout=compact&theme=radical" alt="Top Languages" />
-          </a>
-      </div>
-    <h2>Featured Content 🌟</h2>  
-      <p>Feel free to explore my projects and repositories of learning logs:</p>
-      <p align="center">
-        <a href="https://github.com/Izalp/Laboratorio_C204">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_C204&cache_seconds=86400&theme=radical" alt="Laboratorio_C204">
-        </a>
-        <a href="https://github.com/Izalp/Laboratorio_C208">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_C208&cache_seconds=86400&theme=radical" alt="Laboratorio_C208">
-        </a>
-        <a href="https://github.com/Izalp/Laboratorio_S203">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_S203&cache_seconds=86400&theme=radical" alt="Laboratorio_S203">
-        </a>
-        <a href="https://github.com/Izalp/Laboratorio_S202">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_S202&cache_seconds=86400&theme=radical" alt="Laboratorio_S202">
-        </a>
-        <a href="https://github.com/Izalp/Laboratorio_C206">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_C206&cache_seconds=86400&theme=radical" alt="Laboratorio_C206">
-        </a>
-         <a href="https://github.com/Izalp/Laboratorio_C209">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_C209&cache_seconds=86400&theme=radical" alt="Laboratorio_C209">
-        </a>
-      </p>
-      <h2>Connect with Me ✨ </h2>
-      <p> Feel free to find me on the following platforms:</p>
-          <a href="https://www.linkedin.com/in/iza-lopes-ribeiro-065b81204/">
-              <img src="https://skillicons.dev/icons?i=linkedin">
-          </a>
-          <a href="https://www.instagram.com/izallopes_/">
-              <img src="https://skillicons.dev/icons?i=instagram">
-          </a>
-          <a href="https://twitter.com/izallopes_/">
-              <img src="https://skillicons.dev/icons?i=twitter">
-          </a>
-      </p>
-      <p><b>Let's connect and collaborate on amazing projects together! 🚀</b></p>
-  </div>
-</div>
+<h1>💻 Iza Lopes</h1> 
+
+*Software Engineering Student*
+
+<p>Hello! I'm Iza Lopes, 22 years old, and I'm from Santa Rita do Sapucaí, MG. I am currently pursuing my degree in Software Engineering at INATEL, where I am dedicated to the world of technology, innovation, and programming.</p>
+
+<h4>🌱 Learning and Sharing</h4> 
+<p>I am always looking for opportunities to learn new concepts, develop practical skills, and collaborate with the tech community. I strive to share my knowledge and contribute to projects, fostering growth both for myself and others.
+</p>
+
+<h4>🎯 My Goal</h4> 
+<p>My goal is to combine the technical and creative aspects of software engineering, making meaningful contributions while constantly striving to improve and evolve.</p>
+
+<p>
+  <a href="https://www.instagram.com/izallopes_/">
+      <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white""/>
+  </a> 
+  <a href="https://www.linkedin.com/in/iza-lopes/">
+      <img alt="Linkedin" title="Se conecte comigo no Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white""/>
+  </a>
+</p>
+
+<h3>Skills 🔥</h3>
+
+<p align="left">
+    <img alt="Python" title="Python" src="https://skillicons.dev/icons?i=python" />
+    <img alt="HTML" title="HTML" style="padding: 0 1px;" src="https://skillicons.dev/icons?i=html" />
+    <img alt="CSS" title="CSS" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=css" />
+    <img alt="JavaScript" title="JavaScript" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=javascript" />
+    <img alt="TypeScript" title="TypeScript" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=typescript" />
+    <img alt="React" title="React" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=react" />
+    <img alt="Node.js" title="Node.js" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=nodejs" />
+    <img alt="C" title="C" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=c" />
+    <img alt="C++" title="C++" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=cpp" />
+    <img alt="C#" title="C#" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=cs" />
+    <img alt="Java" title="Java" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=java" />
+    <img alt="MongoDB" title="MongoDB" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=mongo" />
+    <img alt="Firebase" title="Firebase" src="https://skillicons.dev/icons?i=firebase" />
+    <img alt="Git" title="Git" src="https://skillicons.dev/icons?i=git" />
+    <img alt="Figma" title="Figma" src="https://skillicons.dev/icons?i=figma" />
+    <img alt="Angular" title="Angular" src="https://skillicons.dev/icons?i=angular" />
+</p>
+
+<h3>Statistics GitHub ⚡</h3>
+
+<p>
+  <img align="left" alt="GitHub Stats" height="175" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=Izalp&show_icons=true&theme=midnight-purple" alt="GitHub Statistics" />
+  <img align="left" alt="Top Languages" height="175" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izalp&hide_progress=true&theme=midnight-purple" alt="Top Languages" />
+</p>
+
+</br></br></br></br></br></br></br></br>
+
+<h3>Featured Content 🌟</h3>
+
+<p>
+  <a href="https://github.com/Izalp/Laboratorio_C204">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_C204&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_C204" 
+      style="width: 400px;"/>
+  </a>
+  <a href="https://github.com/Izalp/Laboratorio_C208">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_C208&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_C208" 
+      style="width: 400px;"/>
+  </a>
+  <a href="https://github.com/Izalp/Laboratorio_S203">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_S203&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_S203" 
+      style="width: 400px;"/>
+  </a>
+  <a href="https://github.com/Izalp/Laboratorio_S202">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_S202&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_S202" 
+      style="width: 400px;"/>
+  </a>
+  <a href="https://github.com/Izalp/Laboratorio_C206">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_C206&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_C206" 
+      style="width: 400px;"/>
+  </a>
+  <a href="https://github.com/Izalp/Laboratorio_C209">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_C209&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_C209" 
+      style="width: 400px;"/>
+  </a>
+</p>
