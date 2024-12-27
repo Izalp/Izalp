@@ -44,11 +44,11 @@ Software Engineering Student
 <h3>Statistics GitHub ⚡</h3>
 
 <p>
-  <img align="left" alt="GitHub Stats" height="180" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Izalp&show_icons=true&theme=midnight-purple" alt="GitHub Statistics" />
-  <img align="left" alt="Top Languages" height="180" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izalp&hide_progress=true&theme=midnight-purple" alt="Top Languages" />
+  <img align="left" alt="GitHub Stats" height="170" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Izalp&show_icons=true&theme=midnight-purple" alt="GitHub Statistics" />
+  <img align="left" alt="Top Languages" height="170" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izalp&hide_progress=true&theme=midnight-purple" alt="Top Languages" />
 </p>
 
-</br>
+</br></br>
 
 <h3>Featured Content 🌟</h3>
 
