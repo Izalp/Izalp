@@ -44,8 +44,8 @@
 <h3>Statistics GitHub ⚡</h3>
 
 <div style="display: flex; gap: 20px;">
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=Izalp&show_icons=true&theme=midnight-purple" />
-  <img alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izalp&hide_progress=true&theme=midnight-purple" />
+  <img alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=Izalp&show_icons=true&theme=midnight-purple" />
+  <img alt="Top Languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izalp&hide_progress=true&theme=midnight-purple" />
 </div>
 
 <div style="clear: both;"></div>
