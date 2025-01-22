@@ -1,11 +1,8 @@
-
-<div style="display: flex; justify-content: center; ">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="GIF 1"  width="1000"/>
-</div>
-
 <h1>💻 Iza Lopes</h1>
 
 *Software Engineering Student*
+
+<img align="right" src="https://github.com/user-attachments/assets/fbe651f7-1750-41f5-8fc6-9d2d0c9b17a4" alt="GIF 1"  width="300"/>
 
 <p>Hello! I'm Iza Lopes, 22 years old, and I'm from Santa Rita do Sapucaí, MG. I am currently pursuing my degree in Software Engineering at INATEL, where I am dedicated to the world of technology, innovation, and programming.</p>
 
@@ -83,5 +80,3 @@
       style="width: 400px;"/>
   </a>
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="GIF 1"  width="1000"/>
