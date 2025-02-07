@@ -13,7 +13,7 @@
 <p>My goal is to combine the technical and creative aspects of software engineering, making meaningful contributions while constantly striving to improve and evolve.</p>
 
 <h4>🚀 My GitHub Organization</h4>
-<p>I have created a <strong>GitHub organization</strong> to centralize and manage my academic projects, exercises, and practical assignments developed throughout my Software Engineering degree. Explore my repositories in the Labs-inatel organization!</p>
+<p>I have created the <strong>Labs-inatel organization</strong> to centralize and manage my academic projects, exercises, and practical assignments developed throughout my Software Engineering degree.</p>
 
 </br>
 
