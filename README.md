@@ -63,10 +63,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=OlympicsThreads&cache_seconds=86400&theme=midnight-purple" alt="OlympicsThreads" 
       style="width: 400px;"/>
   </a>
-  <a href="https://github.com/Izalp/Inventory-System">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Inventory-System&cache_seconds=86400&theme=midnight-purple" alt="Inventory-System" 
-      style="width: 400px;"/>
-  </a>
   <a href="https://github.com/Izalp/Inatel-Schedules">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Inatel-Schedules&cache_seconds=86400&theme=midnight-purple" alt="Inatel-Schedules" 
       style="width: 400px;"/>
