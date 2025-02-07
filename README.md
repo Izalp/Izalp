@@ -56,27 +56,27 @@
 
 <p>
   <a href="https://github.com/Izalp/AppMantra">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_C204&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_C204" 
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=AppMantra&cache_seconds=86400&theme=midnight-purple" alt="AppMantra" 
       style="width: 400px;"/>
   </a>
   <a href="https://github.com/Izalp/OlympicsThreads">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_C208&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_C208" 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=OlympicsThreads&cache_seconds=86400&theme=midnight-purple" alt="OlympicsThreads" 
       style="width: 400px;"/>
   </a>
   <a href="https://github.com/Izalp/Inventory-System">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_S203&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_S203" 
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Inventory-System&cache_seconds=86400&theme=midnight-purple" alt="Inventory-System" 
       style="width: 400px;"/>
   </a>
   <a href="https://github.com/Izalp/Inatel-Schedules">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_S202&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_S202" 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Inatel-Schedules&cache_seconds=86400&theme=midnight-purple" alt="Inatel-Schedules" 
       style="width: 400px;"/>
   </a>
   <a href="https://github.com/Izalp/Solucionador-Metodo-Simplex">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_C206&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_C206" 
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Solucionador-Metodo-Simplex&cache_seconds=86400&theme=midnight-purple" alt="Solucionador-Metodo-Simplex" 
       style="width: 400px;"/>
   </a>
   <a href="https://github.com/Izalp/Analise-de-Dados">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_C209&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_C209" 
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Analise-de-Dados&cache_seconds=86400&theme=midnight-purple" alt="Analise-de-Dados" 
       style="width: 400px;"/>
   </a>
 </p>
