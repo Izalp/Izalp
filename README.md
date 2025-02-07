@@ -55,27 +55,27 @@
 <h3>Featured Content 🌟</h3>
 
 <p>
-  <a href="https://github.com/Izalp/Laboratorio_C204">
+  <a href="https://github.com/Izalp/AppMantra">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_C204&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_C204" 
       style="width: 400px;"/>
   </a>
-  <a href="https://github.com/Izalp/Laboratorio_C208">
+  <a href="https://github.com/Izalp/OlympicsThreads">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_C208&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_C208" 
       style="width: 400px;"/>
   </a>
-  <a href="https://github.com/Izalp/Laboratorio_S203">
+  <a href="https://github.com/Izalp/Inventory-System">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_S203&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_S203" 
       style="width: 400px;"/>
   </a>
-  <a href="https://github.com/Izalp/Laboratorio_S202">
+  <a href="https://github.com/Izalp/Inatel-Schedules">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_S202&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_S202" 
       style="width: 400px;"/>
   </a>
-  <a href="https://github.com/Izalp/Laboratorio_C206">
+  <a href="https://github.com/Izalp/Solucionador-Metodo-Simplex">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_C206&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_C206" 
       style="width: 400px;"/>
   </a>
-  <a href="https://github.com/Izalp/Laboratorio_C209">
+  <a href="https://github.com/Izalp/Analise-de-Dados">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Laboratorio_C209&cache_seconds=86400&theme=midnight-purple" alt="Laboratorio_C209" 
       style="width: 400px;"/>
   </a>
