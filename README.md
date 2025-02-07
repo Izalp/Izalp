@@ -7,18 +7,25 @@
 <p>Hello! I'm Iza Lopes, 22 years old, and I'm from Santa Rita do Sapucaí, MG. I am currently pursuing my degree in Software Engineering at INATEL, where I am dedicated to the world of technology, innovation, and programming.</p>
 
 <h4>🌱 Learning and Sharing</h4> 
-<p>I am always looking for opportunities to learn new concepts, develop practical skills, and collaborate with the tech community. I strive to share my knowledge and contribute to projects, fostering growth both for myself and others.
-</p>
+<p>I am always looking for opportunities to learn new concepts, develop practical skills, and collaborate with the tech community. I strive to share my knowledge and contribute to projects, fostering growth both for myself and others.</p>
 
 <h4>🎯 My Goal</h4> 
 <p>My goal is to combine the technical and creative aspects of software engineering, making meaningful contributions while constantly striving to improve and evolve.</p>
 
+<h4>🚀 My GitHub Organization</h4>
+<p>I have created a <strong>GitHub organization</strong> to centralize and manage my academic projects, exercises, and practical assignments developed throughout my Software Engineering degree. Explore my repositories in the Labs-inatel organization!</p>
+
+</br>
+
 <p>
   <a href="https://www.instagram.com/izallopes_/">
-      <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white""/>
+      <img alt="Instagram" title="I follow on Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white""/>
   </a> 
   <a href="https://www.linkedin.com/in/iza-lopes/">
-      <img alt="Linkedin" title="Se conecte comigo no Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white""/>
+      <img alt="Linkedin" title="Connect with me on Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white""/>
+  </a>
+  <a href="https://github.com/labs-inatel">
+    <img alt="GitHub Organization" title="Explore my repositories here" src="https://img.shields.io/badge/GitHub-Organization-blue?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
@@ -80,3 +87,4 @@
       style="width: 400px;"/>
   </a>
 </p>
+
