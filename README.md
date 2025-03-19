@@ -2,8 +2,6 @@
 
 *Software Engineering Student*
 
-<img align="right" src="https://github.com/user-attachments/assets/fbe651f7-1750-41f5-8fc6-9d2d0c9b17a4" alt="GIF 1"  width="305"/>
-
 <p>Hello! I'm Iza Lopes, 22 years old, and I'm from Santa Rita do Sapucaí, MG. I am currently pursuing my degree in Software Engineering at INATEL, where I am dedicated to the world of technology, innovation, and programming.</p>
 
 <h4>🌱 Learning and Sharing</h4> 
