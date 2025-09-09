@@ -52,37 +52,5 @@
 
 <p>
   <img align="left" alt="GitHub Stats" height="175" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=Izalp&show_icons=true&theme=midnight-purple" alt="GitHub Statistics" />
-  <img align="left" alt="Top Languages" height="175" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izalp&hide_progress=true&theme=midnight-purple" alt="Top Languages" />
+  <img align="left" alt="Top Languages" height="370" width="370" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izalp&hide_progress=true&theme=midnight-purple" alt="Top Languages" />
 </p>
-
-</br></br></br></br></br></br></br></br>
-
-<h3>Featured Content 🌟</h3>
-
-<p>
-  <a href="https://github.com/Izalp/AppMantra">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=AppMantra&cache_seconds=86400&theme=midnight-purple" alt="AppMantra" 
-      style="width: 400px;"/>
-  </a>
-  <a href="https://github.com/Izalp/OlympicsThreads">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=OlympicsThreads&cache_seconds=86400&theme=midnight-purple" alt="OlympicsThreads" 
-      style="width: 400px;"/>
-  </a>
-  <a href="https://github.com/Izalp/Inventory-System">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Inventory-System&cache_seconds=86400&theme=midnight-purple" alt="Inventory-System" 
-      style="width: 400px;"/>
-  </a>
-  <a href="https://github.com/Izalp/Inatel-Schedules">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Inatel-Schedules&cache_seconds=86400&theme=midnight-purple" alt="Inatel-Schedules" 
-      style="width: 400px;"/>
-  </a>
-  <a href="https://github.com/Izalp/Solucionador-Metodo-Simplex">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Solucionador-Metodo-Simplex&cache_seconds=86400&theme=midnight-purple" alt="Solucionador-Metodo-Simplex" 
-      style="width: 400px;"/>
-  </a>
-  <a href="https://github.com/Izalp/Analise-de-Dados">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Izalp&repo=Analise-de-Dados&cache_seconds=86400&theme=midnight-purple" alt="Analise-de-Dados" 
-      style="width: 400px;"/>
-  </a>
-</p>
-
