@@ -8,9 +8,6 @@
 </br>
 
 <p>
-  <a href="https://www.instagram.com/izallopes_/">
-      <img alt="Instagram" title="I follow on Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white""/>
-  </a> 
   <a href="https://www.linkedin.com/in/iza-lopes/">
       <img alt="Linkedin" title="Connect with me on Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white""/>
   </a>
