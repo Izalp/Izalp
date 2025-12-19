@@ -1,14 +1,6 @@
 <h1>💻 Iza Lopes</h1>
 
-*Software Engineering Student*
-
-<p>Hello! I'm Iza Lopes, 22 years old, and I'm from Santa Rita do Sapucaí, MG. I am currently pursuing my degree in Software Engineering at INATEL, where I am dedicated to the world of technology, innovation, and programming.</p>
-
-<h4>🌱 Learning and Sharing</h4> 
-<p>I am always looking for opportunities to learn new concepts, develop practical skills, and collaborate with the tech community. I strive to share my knowledge and contribute to projects, fostering growth both for myself and others.</p>
-
-<h4>🎯 My Goal</h4> 
-<p>My goal is to combine the technical and creative aspects of software engineering, making meaningful contributions while constantly striving to improve and evolve.</p>
+*Software Engineering*
 
 <h4>🚀 My GitHub Organization</h4>
 <p>I have created the <strong>Labs-inatel organization</strong> to centralize and manage my academic projects, exercises, and practical assignments developed throughout my Software Engineering degree.</p>
