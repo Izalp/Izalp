@@ -12,7 +12,7 @@
       <img alt="Linkedin" title="Connect with me on Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white""/>
   </a>
   <a href="https://github.com/labs-inatel">
-    <img alt="GitHub Organization" title="Explore my repositories here" src="https://img.shields.io/badge/GitHub-Organization-blue?style=for-the-badge&logo=github"/>
+    <img alt="GitHub Organization" title="Explore my repositories here" src="https://img.shields.io/badge/GitHub-Organization-purple?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
@@ -35,11 +35,4 @@
     <img alt="Git" title="Git" src="https://skillicons.dev/icons?i=git" />
     <img alt="Figma" title="Figma" src="https://skillicons.dev/icons?i=figma" />
     <img alt="Angular" title="Angular" src="https://skillicons.dev/icons?i=angular" />
-</p>
-
-<h3>Statistics GitHub ⚡</h3>
-
-<p>
-  <img align="left" alt="GitHub Stats" height="175" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=Izalp&show_icons=true&theme=midnight-purple" alt="GitHub Statistics" />
-  <img align="left" alt="Top Languages" height="370" width="370" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izalp&hide_progress=true&theme=midnight-purple" alt="Top Languages" />
 </p>
