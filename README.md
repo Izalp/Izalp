@@ -1,11 +1,9 @@
-<h1>💻 Iza Lopes</h1>
+<h1>Iza Lopes</h1>
 
 *Software Engineering*
 
 <h4>🚀 My GitHub Organization</h4>
 <p>I have created the <strong>Labs-inatel organization</strong> to centralize and manage my academic projects, exercises, and practical assignments developed throughout my Software Engineering degree.</p>
-
-</br>
 
 <p>
   <a href="https://www.linkedin.com/in/iza-lopes/">
