@@ -1,6 +1,6 @@
 # Iza Lopes Ribeiro
 
-**`Software Engineer`** · **`Data Engineer`**  . **`Analytics Engineer`** 
+**`Software Engineer`** · **`Data Engineer`**  . **`Analytics Engineer`** .  **`Machine Learning`** 
 
 ## About
 
