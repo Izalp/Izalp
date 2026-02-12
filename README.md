@@ -38,11 +38,4 @@
     <img alt="Postman" title="Postman" src="https://skillicons.dev/icons?i=postman" />
 </p>
 
-## Statistics GitHub
-
-<p>
-  <img align="left" alt="GitHub Stats" height="175" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=Izalp&show_icons=true&theme=chartreuse-dark" alt="GitHub Statistics" />
-  <img align="left" alt="Top Languages" height="370" width="370" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izalp&hide_progress=true&theme=chartreuse-dark" alt="Top Languages" />
-</p>
-
 
